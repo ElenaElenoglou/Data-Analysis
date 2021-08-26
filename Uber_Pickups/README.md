@@ -6,8 +6,7 @@
 
 # UBER Pickups
 
-![](https://img.shields.io/badge/Dataset-Jedha-lightgrey) ![](https://img.shields.io/badge/Python-3.6-red) ![](https://img.shields.io/badge/libraries-pandas-green) ![](https://img.shields.io/badge/libraries-plotly-pink) ![](https://img.shields.io/badge/libraries-searborn-blue) ![](https://img.shields.io/badge/libraries-statsmodels-blueviolet)  ![](https://img.shields.io/badge/libraries-sklearn-vi)
-
+![](https://img.shields.io/badge/Dataset-Jedha-lightgrey) ![](https://img.shields.io/badge/Python-3.6-red) ![](https://img.shields.io/badge/libraries-pandas-green) ![](https://img.shields.io/badge/libraries-plotly-pink) ![](https://img.shields.io/badge/libraries-searborn-blue)
 
 
 ## Company's Description 📇
