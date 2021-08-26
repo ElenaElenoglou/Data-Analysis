@@ -32,13 +32,5 @@ For this project, we'll work with a dataset that contains information about week
 
 ## Resources Used 📖
 
-- Packages: **pandas, numpy, matplotlib, seaborn, plotly, statsmodels, sklearn**
+- Packages: **pandas, numpy, matplotlib, seaborn, plotly**
 - Dataset by Jedha.
-
-
-
-## Deliverable 📬
-
-* A map with hot-zones per day of week using DBScan.
-
-<img src="https://github.com/ElenaElenoglou/Machine-Learning/blob/master/Uber_Pickups/Image/Spots_per_week_day.PNG" /> 
