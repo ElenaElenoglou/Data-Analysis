@@ -2,7 +2,7 @@
 
 # Walmart : predict weekly sales
 
-![](https://img.shields.io/badge/Dataset-Jedha-lightgrey) ![](https://img.shields.io/badge/Python-3.6-red) ![](https://img.shields.io/badge/libraries-pandas-green) ![](https://img.shields.io/badge/libraries-plotly-pink) ![](https://img.shields.io/badge/libraries-searborn-blue) ![](https://img.shields.io/badge/libraries-sklearn-blueviolet)
+![](https://img.shields.io/badge/Dataset-Jedha-lightgrey) ![](https://img.shields.io/badge/Python-3.6-red) ![](https://img.shields.io/badge/libraries-pandas-green) ![](https://img.shields.io/badge/libraries-plotly-pink) ![](https://img.shields.io/badge/libraries-searborn-blue)
 
 
 
@@ -39,24 +39,4 @@ For this project, we'll work with a dataset that contains information about week
 </p>
 
 
-
-- **Removed unwanted columns**.
-
-  
-
-## Feature Engineering ⚙️
-
-- **Feature Scaling:** numerical and categorical features.
-- **Imputing missing values:** KNN Imputer.
-
-
-
-## Model building & Evaluation 🧱
-
-Metric:  Root Squared Error (RSE)
-
-- Linear Regression: 0.98.
-- Ridge Regression: 0.93.
-- Lasso Regression : 0.98.
-- **Hyperparameter Tuning:**  Ridge: 0.98,  Lasso: 0.98.
 
